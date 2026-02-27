@@ -1,8 +1,8 @@
-# DocSpot – Seamless Appointment Booking for Health
+# DocSpot Seamless Appointment Booking for Health
 
 DocSpot is a MERN Stack web application for booking doctor appointments online.
 
-## Modules
+# Modules
 
 - Patient Registration & Login
 - Doctor Registration
@@ -11,13 +11,13 @@ DocSpot is a MERN Stack web application for booking doctor appointments online.
 - Appointment Management
 - Admin Approval
 
-## Tech Stack
+# Tech Stack
 
 Frontend: React, Bootstrap, Axios  
 Backend: Node.js, Express.js  
 Database: MongoDB  
 
-## Run Project
+# Run Project
 
 1. Install Dependencies
    npm install
@@ -28,4 +28,5 @@ Database: MongoDB
    npm run dev
 
 Server runs on: http://localhost:5000  
+
 Client runs on: http://localhost:3000
