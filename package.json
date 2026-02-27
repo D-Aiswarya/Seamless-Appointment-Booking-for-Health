@@ -1,0 +1,14 @@
+{
+  "name": "docspot",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "server": "nodemon Server/server.js",
+    "client": "npm start --prefix Client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.2"
+  }
+}
